@@ -261,7 +261,7 @@
       </ReturnValue>
       <MemberValue>4</MemberValue>
       <Docs>
-        <summary>The access checks do not apply to the object; they only apply to its children.</summary>
+        <summary>Combined with the other InheritanceFlags to indicate that the ACE inherited by the child container is itself non-inheritable and won't propagate to its children.</summary>
       </Docs>
     </Member>
     <Member MemberName="ObjectInherit">
